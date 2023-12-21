@@ -17,10 +17,12 @@
 * Pratikum 12 : Fungsi Rekursif `pratikum-12.py`
 * Pratikum 13 : Fungsi Rekursif Fibonacci `pratikum-13.py`
 
-* Latihan 1 : Percabangan If Else `latihan-1.py
-* Latihan 2 : Percabangan If Else `latihan-2.py
-* Latihan 3 : Percabangan If Else `latihan-3.py
-* Latihan 4 : Percabangan If Else `latihan-4.py
-
-* 
+* Latihan 1 : Percabangan If Else `latihan-1.py`
+* Latihan 2 : Percabangan If Else `latihan-2.py`
+* Latihan 3 : Percabangan If Else `latihan-3.py`
+* Latihan 4 : Percabangan If Else `latihan-4.py`
+* Tugas 9 : Dictionaries `tugas-9.py`
+* Tugas ganjil : Pengecekan Kelipatan Bilangan, Penjumlahan Dan Pengurangan Waktu Dengan Fungsi. `tugas-ganjil.py`
+* Tugas ganjil genap : Pengecekan Kelipatan Bilangan, Penjumlahan Dan Pengurangan Waktu Dengan Fungsi. `tugas-ganjil-genap.py`
+* UTS : Ulangan Tengah Semester `uts.py`
   
